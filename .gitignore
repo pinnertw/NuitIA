@@ -4,5 +4,6 @@ X_train.h5
 .ipynb_checkpoints
 linearise.ipynb
 y_benchmark.csv
+features_test.npy
 features_train.npy
 features_train_all.npy
